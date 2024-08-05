@@ -9,10 +9,9 @@ I'm Gayani Samarawera from Sri Lanka, and I do content on Development. I really 
 ## Skills and Experience
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="13" height="13"/> React
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="13" height="13"/> Java
-* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="13" height="13"/> Python
-* <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="nodejs" width="13" height="13"/> NodeJs
-* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="13" height="13"/> HTML, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="13" height="13"/> CSS,<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="13" height="13"/> JS
-* <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="13" height="13"/> MySQL, <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="13" height="13"/> MongoDB
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="13" height="13"/> HTML, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="13" height="13"/> CSS,
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="13" height="13"/> JS
+* <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="13" height="13"/> MySQL,
 
 
 <h4 align="left">Connect with me:</h4>
