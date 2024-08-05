@@ -15,9 +15,9 @@ I'm Gayani Samarawera from Sri Lanka, and I do content on Development. I really 
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asanka-madushan" height="30" width="40" /></a>
-<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Asanka Madushan" height="30" width="40" /></a>
-<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Asanka_Madushan" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/gayani-samaraweera-ba0657292" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gayani_samaraweera" height="30" width="40" /></a>
+<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Gayani" height="30" width="40" /></a>
+<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Gayani" height="30" width="40" /></a>
 <a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Asanka Madushan" height="30" width="40" /></a>
 </p>
 
