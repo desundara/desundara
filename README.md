@@ -2,12 +2,11 @@
 <h3 align="center">A Student at SLIATE</h3>
 
 I'm Gayani Samarawera from Sri Lanka, and I do content on Development. I really enjoy learning languages and frameworks like React. I also enjoy ui design in general.
-- 🌱 I’m currently learning Angular and PHP 
-- 💬 Ask me about Java and React 
+- 🌱 I’m currently learning ReactJs
 - 📫 How to reach me: gayanisamaraweers@gmail.com
 
 ## Skills and Experience
-* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="13" height="13"/> React
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="13" height="13"/> ReactJs
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="13" height="13"/> Java
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="13" height="13"/> HTML, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="13" height="13"/> CSS,
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="13" height="13"/> JS
