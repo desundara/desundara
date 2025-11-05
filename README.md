@@ -77,7 +77,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
   <a href="https://www.linkedin.com/in/gayani-samaraweera-ba0657292" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
