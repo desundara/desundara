@@ -25,33 +25,37 @@
 
 ## 🛠️ Skills & Technologies
 
+<div align="center">
+
 ### 🚀 Languages
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 </p>
 
 ### 🎨 Frontend
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
 </p>
 
 ### ⚙️ Backend & API
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
 </p>
 
 ### 🗄️ Database & Tools
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
   <img src="https://skillicons.dev/icons?i=github" width="40"/>
   <img src="https://skillicons.dev/icons?i=vscode" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40"/>
 </p>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:004aad,50:00C2FF,100:00E5FF&height=3" width="100%">
 
