@@ -21,7 +21,7 @@
 - 📫 Reach me: **gayanisamaraweers@gmail.com**
 - ⚡ Fun fact: **I love problem solving & clean UI/UX**
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,14,16&height=3" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:004aad,50:00C2FF,100:00E5FF&height=3" width="100%">
 
 ## 🛠️ Skills & Technologies
 
@@ -57,7 +57,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:004aad,50:00C2FF,100:00E5FF&height=3" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,14,16&height=3" width="100%">
 
 ## 📊 GitHub Stats
 
