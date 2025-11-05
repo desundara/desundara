@@ -1,76 +1,103 @@
 <h1 align="center">Hi 👋, I'm Gayani Samaraweera</h1>
-<h3 align="center">A passionate Web Developer from Sri Lanka</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=desundara&label=Profile%20views&color=0e75b6&style=flat" alt="desundara" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;React+%7C+Node.js+%7C+Spring+Boot;Always+Learning+New+Technologies&center=true&width=600&height=45&color=00C2FF&size=24&weight=600" />
 </p>
 
-## 👨‍💻 About Me
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=desundara&label=Profile%20Views&color=00C2FF&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/desundara?label=Followers&style=social)
 
-- 🔭 I'm currently working as a **Web Developer**
-- 🌱 I'm currently learning **Node.js & Advanced JavaScript**
-- 👨‍💻 All of my projects are available at [https://github.com/desundara](https://github.com/desundara)
-- 💬 Ask me about **Java, JavaScript, React, Node.js**
-- 📫 How to reach me **gayanisamaraweers@gmail.com**
-- ⚡ Fun fact **I love problem solving and clean code**
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,16&height=3" width="100%">
+
+## 👩‍💻 About Me
+
+- 🔭 I'm currently growing as a **Full-Stack Web Developer**
+- 🌱 Learning **Node.js & Advanced JavaScript**
+- 💬 Ask me about **Java, JavaScript, React, Node.js & Spring Boot**
+- 👨‍💻 My projects: [GitHub Profile](https://github.com/desundara)
+- 📫 Reach me: **gayanisamaraweers@gmail.com**
+- ⚡ Fun fact: **I love problem solving & clean UI/UX**
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,14,16&height=3" width="100%">
 
 ## 🛠️ Skills & Technologies
 
-### Programming Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+### 🚀 Languages
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 </p>
 
-### Frontend Development
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+### 🎨 Frontend
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
 </p>
 
-### Backend Development
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+### ⚙️ Backend & API
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
 </p>
 
-### Database
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+### 🗄️ Database & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=github" width="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40"/>
 </p>
 
-### Tools
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:004aad,50:00C2FF,100:00E5FF&height=3" width="100%">
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=desundara&show_icons=true&theme=dark&hide_border=true" alt="desundara's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=desundara&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=desundara&theme=dark&hide_border=true" alt="desundara's GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=desundara&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=desundara&layout=compact&theme=dark&hide_border=true" alt="desundara's Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=desundara&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 🌐 Connect with Me
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## 🌐 Connect With Me
 
 <p align="left">
+
   <a href="https://www.linkedin.com/in/gayani-samaraweera-ba0657292" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
   </a>
-  <!-- Add your other social media links here -->
+
+  <a href="https://web.facebook.com/gayani.samaraweera.5" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="45"/>
+  </a>
+
+  <a href="https://www.instagram.com/gayani_samaraweera" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+  </a>
+
+  <a href="mailto:gayanisamaraweers@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+  </a>
+
 </p>
 
-## 📈 GitHub Activity Graph
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,14,16&height=3" width="100%">
+
+## 🧩 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=desundara&theme=react-dark&hide_border=true" alt="desundara's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=desundara&theme=react-dark&hide_border=true" />
 </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:004aad,50:00C2FF,100:00E5FF&height=3" width="100%">
